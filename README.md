@@ -3,9 +3,7 @@
 <p align="center">
   <img src="https://github.com/mhhpc/mhhpc/assets/93550340/7a4c7486-56be-436d-821e-bd2d8618e8ea" />
 </p>
-<p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/mhhpc/mhhpc/assets/93550340/7a4c7486-56be-436d-821e-bd2d8618e8ea" alt="my banner"></a>
-</p>
+
 
 
 
