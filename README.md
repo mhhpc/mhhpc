@@ -5,13 +5,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://github.com/mhhpc/mhhpc/assets/93550340/53dcc82f-5a92-4cbe-8445-47edac3ff309" />
-</p>
-
-
-
-
 <!--
 **mhhpc/mhhpc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
