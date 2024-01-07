@@ -10,8 +10,8 @@ Hi there, I'm MohammadHossein 👋
 I'm a Android Developer 📱, Computer student 💻, and love Technology⚙️!
 </h2> 
 
-
-
+I love everything related to smarth phones and Computer and Technology. I love to learn more about them. 
+Actually I am a little interested in hacking and security too ...
 
 <!--
 **mhhpc/mhhpc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
