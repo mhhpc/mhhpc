@@ -4,7 +4,7 @@
 
 <p align=”center”>
 
-<img width=”600" height=”600" src=”https://github.com/mhhpc/mhhpc/assets/93550340/53dcc82f-5a92-4cbe-8445-47edac3ff309" alt=”my banner”>
+<img width=”600" height=”600" src='https://github.com/mhhpc/mhhpc/assets/93550340/53dcc82f-5a92-4cbe-8445-47edac3ff309' alt=”my banner”>
 
 </p>
 
