@@ -30,6 +30,14 @@ I love everything related to smarth phones and Computer and Technology. I love t
 - My Samsung apk
 - My Calculator apk
 - My Music apk
+- 
+
+## 🌱 I'm currently learning
+
+- Java , Kotlin For Android
+- QT (C++)
+- Android API
+- Python
 
 ## 💼 Technical Skills
 
@@ -58,10 +66,3 @@ I love everything related to smarth phones and Computer and Technology. I love t
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
-
-## 🌱 I'm currently learning
-
-- Java , Kotlin For Android
-- QT (C++)
-- Android API
-- Python
