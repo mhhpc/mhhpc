@@ -22,3 +22,18 @@ I love everything related to smarth phones and Computer and Technology. I love t
 </br>
 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
+## 🔭 I'm currently working on
+
+- My University projects
+- Mini QT Projects
+- My Samsung apk
+- My Calculator apk
+- My Music apk
+
+## 🌱 I'm currently learning
+
+- Java , Kotlin For Android
+- QT (C++)
+- Android API
+- Python
