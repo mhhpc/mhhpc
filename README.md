@@ -23,11 +23,8 @@ I love everything related to smarth phones and Computer and Technology. I love t
 
 ### 🤝 My apps:
 
-<a href="https://cafebazaar.ir/developer/781503171866"><img align="left" src="https://github.com/mhhpc/mhhpc/assets/93550340/2d863735-d7da-4aff-8008-8f0d35ce7087" alt="mhhpc | Bazaar"/></a>
-<a href = "mailto: hamidimhhossein@gmail.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mhhpc | Gmail"/></a>
-<a href="https://https://telegram.me/mhhpc"><img align="left" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="mhhpc | Telegram"/></a>
-<a href="https://instagram.com/mhhpc"><img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="mhhpc | Instagram"/></a>
-<a href="https://twitter.com/mhhpcs"><img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="mhhpc | X"/></a>
+<a href="https://cafebazaar.ir/developer/781503171866"><img align="left" src="https://github.com/mhhpc/mhhpc/assets/93550340/6ec5935e-80de-44e1-aa7f-555ff679a05c" alt="mhhpc | Bazaar"/></a>
+<a href = "https://myket.ir/developer/dev-58057"><img align="left" src="https://github.com/mhhpc/mhhpc/assets/93550340/ebd2f670-55bf-4230-9307-cfaa6c634b78" alt="mhhpc | Myket"/></a>
 </br>
 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
