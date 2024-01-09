@@ -30,7 +30,6 @@ I love everything related to smarth phones and Computer and Technology. I love t
 - My Samsung apk
 - My Calculator apk
 - My Music apk
-- 
 
 ## 🌱 I'm currently learning
 
@@ -47,9 +46,9 @@ I love everything related to smarth phones and Computer and Technology. I love t
 
 </br>
 
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
-![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
-![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
+![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![](https://img.shields.io/github/watchers/{username}/{repo-name}.svg)
 
 
 </br>
