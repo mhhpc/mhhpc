@@ -41,7 +41,7 @@ I love everything related to smarth phones and Computer and Technology. I love t
 
 ## 💼 Technical Skills
 
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=61DAFB)
+![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&color=CC342D)
