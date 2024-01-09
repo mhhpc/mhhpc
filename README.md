@@ -60,5 +60,3 @@ I love everything related to smarth phones and Computer and Technology. I love t
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhhpc&layout=compact)](https://github.com/mhhpc)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=mhhpc.mhhpc)](https://github.com/mhhpc)
-
